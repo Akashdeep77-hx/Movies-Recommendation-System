@@ -18,7 +18,7 @@
 - Total ratings
 - IMDB Ratings⭐
 
-## Usage
+## Usage 
 
 - Clone my repository.
 - Open CMD in working directory.
